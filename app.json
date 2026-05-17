@@ -2,6 +2,10 @@
   "expo": {
     "name": "Ecommerce-prototype-mobile",
     "slug": "Ecommerce-prototype-mobile",
+    "scheme": "ecommerce-prototype",
+    "plugins": [
+      "expo-router"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
